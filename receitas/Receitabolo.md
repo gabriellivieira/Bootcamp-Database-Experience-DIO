@@ -1,6 +1,6 @@
-#Bolo de Fuga
+# Bolo de Fuga
 
-##Ingredientes
+## Ingredientes
  - 1 xicara e 1/2 (chá) de fubá mimoso
  - 1 xicara (chá) de Farinha de Trigo Tradicional Renata
  - 2 xícaras (chá) de açúcar
@@ -11,7 +11,7 @@
  - 1 colher de sementes de erva-doce
  - 1 pitada de sal
 
- ##Modo de Preparo
+ ## Modo de Preparo
  **1** Coloque no liquidificador os ovos, o açúcar, o óleo, o leite e bata.
  **2** Acrescente o fubá, a farinha de trigo e o fermento. Bata mais um pouco.
  **3** Misture com uma colher as sementes de erva-doce.
