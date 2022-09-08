@@ -6,9 +6,8 @@ Temas que serão estudados:
 
 - Controle de Versão
 - Armazenamento
-- Trabalho em equipe
-- Melhorar seu código
-- Reconhecimento
+- Comandos
+- Funcionamento
 
 ---
 
@@ -33,9 +32,7 @@ O Git é um software cpm desing do tipo CLI (command line interface), não possu
     
     - Windows: dir
     
-        ls  -a (arquivos ocultos)              
-    
-    - Unix/Linux: ls
+    - Unix/Linux: ls / ls  -a (arquivos ocultos)
 - Criar pastas/arquivos:
     
     
