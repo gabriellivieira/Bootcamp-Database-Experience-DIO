@@ -88,7 +88,7 @@ O Git é um software cpm desing do tipo CLI (command line interface), não possu
     - Tracked são arquivos que o git tem a ciência deles.
     - Untracked aqueles que o git não tem ciência.
     
-    ![download (1).jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/017da7e6-6205-4510-b352-cea82e5105dd/download_(1).jpg)
+    ![download (1).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/017da7e6-6205-4510-b352-cea82e5105dd/download_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220908%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220908T003736Z&X-Amz-Expires=86400&X-Amz-Signature=bf21eaf292977b78bd6369fa5b1652d13473a7c935b1ec2adbc96f1949afc5a0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22download%2520%281%29.jpg%22&x-id=GetObject)
     
     Unmodifield (arquivo não modificado); Modifield (arquivo modificado), Staged (Onde fica os arquivos que estão se preparando para outros agrupamentos rumo ao commit).
     
