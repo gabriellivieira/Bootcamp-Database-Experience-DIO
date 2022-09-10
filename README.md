@@ -7,3 +7,5 @@ Aqui você vai encontrar cada aula ou modulo que considerei relevante para meus 
 - [Introdução ao GitHub](/Bootcamp/Introdu%C3%A7%C3%A3o-GitHub.md)
 
 - [Contextualização do cenário da área de Banco de Dados](/Bootcamp/Contexto-cen%C3%A1rios-area-BD.md)
+
+- [Explorando a Abordagem de SGBDs](/Bootcamp/Abordagens-SGBD.md)
