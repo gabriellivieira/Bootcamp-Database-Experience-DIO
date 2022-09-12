@@ -9,3 +9,5 @@ Aqui você vai encontrar cada aula ou modulo que considerei relevante para meus 
 - [Contextualização do cenário da área de Banco de Dados](/Bootcamp/Contexto-cen%C3%A1rios-area-BD.md)
 
 - [Explorando a Abordagem de SGBDs](/Bootcamp/Abordagens-SGBD.md)
+
+- [Overview sobre modelagem de dados](/Bootcamp/Modelagem_Dados_Intr.md)
