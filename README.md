@@ -11,3 +11,5 @@ Aqui você vai encontrar cada aula ou modulo que considerei relevante para meus 
 - [Explorando a Abordagem de SGBDs](/Bootcamp/Abordagens-SGBD.md)
 
 - [Overview sobre modelagem de dados](/Bootcamp/Modelagem_Dados_Intr.md)
+
+- [Arquitetura de Banco de Dados](/Bootcamp/Arquitetura_BD.md)
