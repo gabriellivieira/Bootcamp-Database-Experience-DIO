@@ -13,3 +13,9 @@ Aqui você vai encontrar cada aula ou modulo que considerei relevante para meus 
 - [Overview sobre modelagem de dados](/Bootcamp/Modelagem_Dados_Intr.md)
 
 - [Arquitetura de Banco de Dados](/Bootcamp/Arquitetura_BD.md)
+
+- [Fundamentos de Modelagem e Projeto de Banco de Dados](/Bootcamp/Fundamentos_modelagem_BD.md)
+
+- [Modelo de Entidade Relacionamento (ER)](/Bootcamp/Modelo_ER.md)
+
+- [Diagrama ER - Ecommerce](https://github.com/gabriellivieira/Bootcamp-Database-Experience-DIO/blob/master/Desafio_Ecommerce.png)
