@@ -19,3 +19,5 @@ Aqui você vai encontrar cada aula ou modulo que considerei relevante para meus 
 - [Modelo de Entidade Relacionamento (ER)](/Bootcamp/Modelo_ER.md)
 
 - [Diagrama ER - Ecommerce](https://user-images.githubusercontent.com/112736236/191877078-a8194e8a-537b-4e0c-9ee8-b8b640fb8680.png)
+
+- [Diagrama ER - Ordem de Serviço Mecânica](https://user-images.githubusercontent.com/112736236/191938159-c766a75e-bf7d-4653-8a69-af26fff5dea1.png)
