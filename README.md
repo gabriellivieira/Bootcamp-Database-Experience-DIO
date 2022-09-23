@@ -18,4 +18,4 @@ Aqui você vai encontrar cada aula ou modulo que considerei relevante para meus 
 
 - [Modelo de Entidade Relacionamento (ER)](/Bootcamp/Modelo_ER.md)
 
-- [Diagrama ER - Ecommerce](https://github.com/gabriellivieira/Bootcamp-Database-Experience-DIO/commit/12afd7b75b9c78f38e2415b449926fc8b17a9016)
+- [Diagrama ER - Ecommerce](https://github.com/gabriellivieira/Imagens/issues/1#issue-1383181087)
