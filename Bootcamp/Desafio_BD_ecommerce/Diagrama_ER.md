@@ -1,0 +1,1 @@
+[Diagrama ER Desafio - Ecommerce](https://user-images.githubusercontent.com/112736236/192177070-625e1140-efd7-4a36-a809-7778310f6c09.png)
