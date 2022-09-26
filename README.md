@@ -23,3 +23,5 @@ Aqui você vai encontrar cada aula ou modulo que considerei relevante para meus 
 - [Diagrama ER - Ordem de Serviço Mecânica](https://user-images.githubusercontent.com/112736236/191938159-c766a75e-bf7d-4653-8a69-af26fff5dea1.png)
 
 - [Desafio SQL - Banco Ecommerce](/Bootcamp/Desafio_BD_ecommerce/)
+
+- [Desafio SQL - Banco Order Service](/Bootcamp/Desafio_BD_OrderService/)
