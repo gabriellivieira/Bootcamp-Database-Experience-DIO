@@ -76,9 +76,23 @@ Trabalha com visões: interpretada (acha que vai acontecer) e construída (A inc
 > 
 > [UML Fundamentos: Aprendendo a Linguagem de Modelagem Unificada](https://www.devmedia.com.br/uml-fundamentos/8640)
 > 
-
 > Modelo Enhanced ER
 > 
 > 
 > [Understanding the Enhanced ER Model Simplified 101 - Learn | Hevo](https://hevodata.com/learn/enhanced-er-model/)
 >
+---
+
+## Conceitos formais do Modelo Relacional
+
+**Tupla -** É a instância da tabela, cada linha de dados da tabela.
+
+**Atributo -** Características da tabela, informações do cabeçalho da tabela.
+
+**Relação -** A parte abstrata da estrutura
+
+**Valor atômicos -** são os domínios, são valores indivisíveis associados a grupos, ex: nome e suas características como o tipo VARCHAR(40)
+
+**Cardinalidade -** total de valores, total de instâncias.
+
+**Predicado**, formado por um ou mais valores, é aquilo que se declara sobre a ação do sujeito, concordando em em número e pessoa com ele. seus resultados são verdadeiro ou falta.
