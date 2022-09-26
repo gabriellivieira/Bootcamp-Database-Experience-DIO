@@ -26,4 +26,5 @@ Aqui você vai encontrar cada aula ou modulo que considerei relevante para meus 
 
 - [Desafio SQL - Banco Order Service](/Bootcamp/Desafio_BD_OrderService/)
 
-- [NoSQL](/Bootcamp/NoSQL.md) Para mais informações sobre SGBD's consulte o item Explorando a Abordagem de SGBDs
+- [NoSQL](/Bootcamp/NoSQL.md) 
+Para mais informações sobre SGBD's consulte o item Explorando a Abordagem de SGBDs
